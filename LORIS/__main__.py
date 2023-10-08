@@ -20,7 +20,7 @@ from pkg_resources import resource_filename
 #################################### Set global parameters ##################################
 #############################################################################################
 current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-welcome_message = f"{current_time}   Welcome to LORIS2!"
+welcome_message = f"{current_time}   Welcome to LORIS!"
 print(welcome_message)
 
 entry_fnIn = None
