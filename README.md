@@ -59,6 +59,8 @@ Figure 2. GUI of LORIS.
 	
 	(iv) Median overall survival (months) with a 95% confidence interval.
 
+Note: Before clicking the `Calculate` button, please make sure to clear the contents of the `Input from file` entry box.
+
 #### Example 2: Inquiry for Multiple Patients
 
 1. Store the necessary clinical features of patients in a .txt file (highlighted as red box 2 in Figure 2; refer to the template file at `./LORIS/query_patients.txt` for the format).
